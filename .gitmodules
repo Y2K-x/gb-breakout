@@ -1,0 +1,3 @@
+[submodule "HDR_Gameboy"]
+	path = HDR_Gameboy
+	url = https://github.com/HDR/HDR_Gameboy.git

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "HDR_Gameboy_Cartridges")(type "KiCad")(uri "${KIPRJMOD}/HDR_Gameboy/Footprints/HDR_Gameboy_Cartridges.pretty")(options "")(descr ""))
+)
