@@ -1,4 +1,4 @@
 (sym_lib_table
   (lib (name "HDR_Gameboy")(type "KiCad")(uri "${KIPRJMOD}/HDR_Gameboy/Symbols/HDR_Gameboy.kicad_sym")(options "")(descr ""))
-  (lib (name "74ACT16245DGGR")(type "Legacy")(uri "${KIPRJMOD}/ComponentSearchEngine_Libs/74ACT16245DGGR/74ACT16245DGGR.lib")(options "")(descr ""))
+  (lib (name "74ALVC164245DGG_11")(type "Legacy")(uri "${KIPRJMOD}/ComponentSearchEngine_Libs/74ALVC164245DGG_11/74ALVC164245DGG_11.lib")(options "")(descr ""))
 )

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 74ACT16245DGGR
-D Texas Instruments 74ACT16245DGGR, Dual, Bus Transceiver, 16-Bit Non-Inverting CMOS, 5V, 48-Pin TSSOP
-K
-F http://www.ti.com/lit/gpn/74act16245
-$ENDCMP
-#
-#End Doc Library
