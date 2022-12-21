@@ -1,0 +1,7 @@
+Id;Designator;Package;Quantity;Designation;Supplier and ref;Price
+1;C4,C6,C8,C2,C3,C1,C7,C5;C_0603_1608Metric;8;100n;https://www.mouser.com/ProductDetail/TDK/C0603X5R1E104K030BB?qs=6JAMGB%252BEdkw5r7LrYHn6NA%3D%3D;$0.80
+2;J1;PinHeader_2x16_P2.54mm_Vertical_SMD;1;Conn_02x16_Counter_Clockwise;https://www.mouser.com/ProductDetail/649-95278-802B32LF;$2.48
+3;R1;R_0603_1608Metric;1;1k;https://www.mouser.com/ProductDetail/Vishay-Beyschlag/MCS0402MD1001DE000?qs=EzBFWPtgsb0uiR7R8df7%2FQ%3D%3D;$0.40
+4;U1;GB_Cartridge;1;Cartridge_Bus;PCB (Price shown is for OSHPark);$8.00
+5;IC2,IC1;SOP50P810X120-48N;2;74ALVC164245DGG_11;https://www.mouser.com/ProductDetail/Nexperia/74ALVC164245DGG11?qs=odJ8N4Y39o4j0ykFPcnqaQ%3D%3D;$2.24
+;;;;;;$13.92
