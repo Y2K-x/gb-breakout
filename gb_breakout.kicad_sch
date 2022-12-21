@@ -3322,7 +3322,7 @@
     (property "Value" "1k" (id 1) (at 114.3 95.2499 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (id 2) (at 116.84 93.98 0)
+    (property "Footprint" "" (id 2) (at 116.84 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 116.84 93.98 0)
@@ -4066,7 +4066,7 @@
       (reference "J1") (unit 1) (value "Conn_02x16_Counter_Clockwise") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x16_P2.54mm_Vertical_SMD")
     )
     (path "/6a0e53e1-b857-43dc-a42e-67e035257304"
-      (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0201_0603Metric")
+      (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/8445dacb-1773-4653-87d7-55d6d433fe85"
       (reference "U1") (unit 1) (value "Cartridge_Bus") (footprint "HDR_Gameboy_Cartridges:GB_Cartridge")
