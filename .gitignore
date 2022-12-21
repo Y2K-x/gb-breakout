@@ -27,3 +27,17 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Gerbers
+*.zip
+*.gbl
+*.gbs
+*.gbp
+*.gbo
+*.gm1
+*.gtl
+*.gts
+*.gtp
+*.gto
+*.gbrjob
+*.drl
