@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC16T245DGGRG4
+D Translation - Voltage Levels 16B Dual-Supply Bus Xceiver
+K
+F https://www.ti.com/lit/ds/symlink/sn74lvc16t245.pdf?ts=1618472142953&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74LVC16T245
+$ENDCMP
+#
+#End Doc Library

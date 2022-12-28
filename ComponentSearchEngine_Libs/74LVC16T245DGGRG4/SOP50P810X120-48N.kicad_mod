@@ -1,5 +1,5 @@
 (module "SOP50P810X120-48N" (layer F.Cu)
-  (descr "SOT362-1(TSSOP48)")
+  (descr "DGG (R-PDSO-G**) PLASTIC SMALL-OUTLINE PACKAG")
   (tags "Integrated Circuit")
   (attr smd)
   (fp_text reference IC** (at 0 0) (layer F.SilkS)
@@ -73,9 +73,9 @@
   (pad 46 smd rect (at 3.788 -4.75 90) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
   (pad 47 smd rect (at 3.788 -5.25 90) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
   (pad 48 smd rect (at 3.788 -5.75 90) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
-  (model 74ALVC164245DGG_11.stp
-    (at (xyz 0.36929134308823 0.20354331009031 -0.23937007573646))
+  (model 74LVC16T245DGGRG4.stp
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 90))
+    (rotate (xyz 0 0 0))
   )
 )
