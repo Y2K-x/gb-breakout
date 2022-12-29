@@ -1,7 +1,7 @@
 Id;Designator;Package;Quantity;Designation;Supplier;Price
-1;R7,R6,R5,R4,R3,R2,R1;R_0402_1005Metric;7;1k;https://www.mouser.com/ProductDetail/Vishay-Beyschlag/MCS0402MD1001DE000?qs=EzBFWPtgsb0uiR7R8df7%2FQ%3D%3D;$2.80
-2;C4,C6,C8,C2,C3,C1,C7,C5;C_0603_1608Metric;8;100n;https://www.mouser.com/ProductDetail/TDK/C0603X5R1E104K030BB?qs=6JAMGB%252BEdkw5r7LrYHn6NA%3D%3D;$0.80
-3;J1;PinHeader_2x16_P2.54mm_Vertical_SMD;1;Conn_02x16_Counter_Clockwise;https://www.mouser.com/ProductDetail/649-95278-802B32LF;$2.48
+1;R7,R6,R5,R4,R3,R2,R1;R_0402_1005Metric;8;1k;https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCS04020C1001FE000/462974;$1.04
+2;C4,C6,C8,C2,C3,C1,C7,C5;C_0603_1608Metric;8;100n;https://www.digikey.com/en/products/detail/kyocera-avx/08055C104K4T4A/1602855;$0.51
+3;J1;PinHeader_2x16_P2.54mm_Vertical_SMD;1;Conn_02x16_Counter_Clockwise;https://www.digikey.com/en/products/detail/amphenol-cs-fci/95278-101-32LF/1535628;$2.36
 4;U1;GB_Cartridge;1;PCB;JLCPCB;$3.56
-5;IC2,IC1;SOP50P810X120-48N;2;SN74LVC16T245;https://www.mouser.com/ProductDetail/Texas-Instruments/74LVC16T245DGGRG4?qs=IUbkBnfnSQI0MzJCxYz75g%3D%3D;$6.04
-;;;;;;$15.68
+5;IC2,IC1;SOP50P810X120-48N;2;SN74LVCH16T245DGGR;https://www.digikey.com/en/products/detail/texas-instruments/SN74LVCH16T245DGGR/1009129;$3.70
+;;;;;;$11.17
