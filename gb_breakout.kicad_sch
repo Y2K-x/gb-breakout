@@ -3824,7 +3824,7 @@
   (symbol (lib_id "power:+3V3") (at 165.1 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7da18b4d-c8d9-40a9-a9a3-7b1f60e0a0f6)
-    (property "Reference" "#PWR?" (at 165.1 115.57 0)
+    (property "Reference" "#PWR0109" (at 165.1 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 162.56 107.95 0)
@@ -3840,7 +3840,7 @@
     (instances
       (project "gb_breakout"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0109") (unit 1)
         )
       )
     )
@@ -4751,7 +4751,7 @@
     (property "Value" "SN74LVC1T45DBVT" (at 135.89 163.83 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SOT95P280X145-6N" (at 146.05 262.56 0)
+    (property "Footprint" "SN74LVC1T45DBVT:SOT95P280X145-6N" (at 146.05 262.56 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf" (at 146.05 362.56 0)
