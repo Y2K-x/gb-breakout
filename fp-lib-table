@@ -4,5 +4,4 @@
   (lib (name "HDR_Gameboy")(type "KiCad")(uri "${KIPRJMOD}/HDR_Gameboy/Footprints/HDR_Gameboy.pretty")(options "")(descr ""))
   (lib (name "oshw_silk")(type "KiCad")(uri "${KIPRJMOD}/oshw_silk.pretty")(options "")(descr ""))
   (lib (name "74LVC16T245DGGRG4")(type "KiCad")(uri "${KIPRJMOD}/ComponentSearchEngine_Libs/74LVC16T245DGGRG4")(options "")(descr ""))
-  (lib (name "SN74LVC1T45DBVT")(type "KiCad")(uri "${KIPRJMOD}/ComponentSearchEngine_Libs/SN74LVC1T45DBVT")(options "")(descr ""))
 )
