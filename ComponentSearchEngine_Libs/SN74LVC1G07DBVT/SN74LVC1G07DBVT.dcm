@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC1G07DBVT
+D Single Buffer/Driver With Open-Drain Output
+K
+F http://www.ti.com/lit/gpn/sn74lvc1g07
+$ENDCMP
+#
+#End Doc Library

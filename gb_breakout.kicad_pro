@@ -416,7 +416,8 @@
       "74LVC16T245DGGRG4",
       "HDR_Gameboy",
       "HDR_Gameboy_Cartridges",
-      "SN74LVC1T45DBVT"
+      "SN74LVC1T45DBVT",
+      "SN74LVC1G07DBVT"
     ],
     "pinned_symbol_libs": []
   },
