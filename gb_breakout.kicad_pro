@@ -419,7 +419,10 @@
       "SN74LVC1T45DBVT",
       "SN74LVC1G07DBVT"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "74LVC16T245DGGRG4",
+      "SN74LVC1G07DBVT"
+    ]
   },
   "meta": {
     "filename": "gb_breakout.kicad_pro",
